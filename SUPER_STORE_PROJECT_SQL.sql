@@ -186,10 +186,4 @@ order by sum(sales) desc
 limit 5;
 
 
-SELECT SNR_MAN
-FROM VIBE_LIKE_MIND, GREAT_LIKE_MIND
-WHERE person = GREATEST_SNR_MAN
-
-
-RESULT : "NNANNA KANU"
 
